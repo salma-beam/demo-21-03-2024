@@ -8,3 +8,5 @@ This repository contains the work from the class demo on Thursday 21 March 2024.
 
 ## My Introduction
 - Hi my name is Charles 
+### About me
+- I live in NRW
